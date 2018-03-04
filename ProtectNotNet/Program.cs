@@ -78,7 +78,7 @@ namespace ProtectNotNet
                     for (int i = 0; i < body.Instructions.Count; i++)
                     {
                         if (body.Instructions[i].OpCode == OpCodes.Ldstr && body.Instructions[i + 1].OpCode == OpCodes.Ldstr
-                            && body.Instructions[i + 2].OpCode == OpCodes.Call)
+                            && body.Instructions[i + 2].OpCode == OpCodes.Call && body.Instructions[i + 2].Operand.ToString().Contains(methodname))
                         {
                             var param1 = body.Instructions[i].Operand.ToString();
                             var param2 = body.Instructions[i + 1].Operand.ToString();
