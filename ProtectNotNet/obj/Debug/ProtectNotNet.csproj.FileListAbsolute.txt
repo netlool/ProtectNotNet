@@ -1,8 +1,0 @@
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\bin\Debug\ProtectNotNet.exe.config
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\bin\Debug\ProtectNotNet.exe
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\bin\Debug\ProtectNotNet.pdb
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\bin\Debug\dnlib.dll
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\obj\Debug\ProtectNotNet.csprojResolveAssemblyReference.cache
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\obj\Debug\ProtectNotNet.csproj.CoreCompileInputs.cache
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\obj\Debug\ProtectNotNet.exe
-C:\Users\MaxBe\source\repos\ProtectNotNet\ProtectNotNet\obj\Debug\ProtectNotNet.pdb
